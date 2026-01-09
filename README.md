@@ -31,4 +31,3 @@
 ### 고민 4
 - github에 푸시만 해도 자동으로 배포되는 서비스가 없을까? 
 - github action"# aws-v1" 
-# aws-v1
